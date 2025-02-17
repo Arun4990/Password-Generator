@@ -18,7 +18,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/password-generator.git
+git clone https://github.com/Arun4990/password-generator.git
 cd password-generator
 Install dependencies
 
